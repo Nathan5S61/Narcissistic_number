@@ -1,9 +1,9 @@
-# Four-leaf Rose Number
-This project is introduce rose_number
+# Narcissistic number
+This project is introduce Narcissistic number
 
-## Rose number.pdf
-Pdf and tex(LaTeX code) is in release
-Inside rose number.pdf, there have some script about python and cpp that you can copy to compiler and run.
+## Narcissistic number.pdf
+Pdf and tex(LaTeX code) is in release.  
+Inside Narcissistic number.pdf, there have some script about python and cpp that you can copy to compiler and run.
 
-## Rose number.7z
-Inside Rose number.7z has some script.
+## Narcissistic number.7z
+Inside Narcissistic number.7z has some script about to find Narcissistic number.
