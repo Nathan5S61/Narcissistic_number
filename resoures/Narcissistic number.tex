@@ -1,0 +1,156 @@
+\documentclass[12pt,a4paper,]{ctexart}
+\usepackage[UTF8]{ctex}
+\usepackage{amsmath,amssymb}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{listings}
+\geometry{margin=2.5cm}
+\pagestyle{empty}
+\title{Narcissistic number(PPDI)}
+\author{}
+\date{}
+\lstset{
+	language=C++,
+	basicstyle=\ttfamily\small,
+	numbers=left,
+	frame=single,
+	tabsize=4,
+	breaklines=true,
+	showstringspaces=false,
+	keywordstyle=\bfseries\color{red},
+	directivestyle=\color{green},
+	stringstyle=\color{blue},
+	numberstyle=\tiny\color{gray}
+}
+\begin{document}
+	\maketitle
+	\begin{center}
+		Narcissistic number (自幂数) has another name called Armstrong number (阿姆斯壯数)
+	\end{center}
+	\begin{flushleft}
+		\section{1-digit Narcissistic number[独身数]}
+		All number 0-9 is Narcissistic number.
+		\section{2‑digit Narcissistic numbers}
+		2‑digit Narcissistic numbers does not exist.
+		\section{3-digit Narcissistic number(Daffodil number)[水仙花数]}
+		This refers to a 3-digit number where the sum of the cube of its digits equals the number itself.\\
+		Example: 153\\
+		$1^3+5^3+3^3 = 153$\\
+		So \underline{153} is a Daffodil number.\\
+		There have 4 daffodil number are:
+		\begin{enumerate}
+			\item 153
+			\item 370
+			\item 371
+			\item 407
+		\end{enumerate}
+		\subsection{Find daffodil number with programming}
+		\subsubsection{In C++}
+		\begin{lstlisting}
+			#include<iostream>
+			#include<cstdio>
+			int main()
+			{
+				int a, b, c;
+				for (int num = 100; num <= 999; num++) {
+					a = num / 100;
+					b = (num / 10) % 10;
+					c = num % 10;
+					if (a * a * a + b * b * b + c * c * c == num)
+					printf("%d\n", num);
+				}
+			}
+		\end{lstlisting}
+		\subsubsection{In Python}
+		\begin{lstlisting}
+			for num in range(100,1000):
+			a = num // 100
+			b = (num // 10) % 10
+			c = num % 10
+			if a**3+b**3+c**3==num:
+			print (num)
+		\end{lstlisting}
+		\section {4-digit Narcissistic number(Four-leaf-Rose Number)[四叶玫瑰数]}
+		This refers to a 4-digit number where the sum of the fourth powers of its digits equals the number itself.\\
+		Example: 1634\\
+		$1^4+6^4+3^4+4^4 = 1634$\\
+		So \underline{1634} is a Four-leaf-rose Number.\\
+		There have 3 rose number are:
+		\begin{enumerate}
+			\item 1634
+			\item 8208
+			\item 9474
+		\end{enumerate}
+		\subsection {Find Four-leaf-rose Number with programming.}
+		\subsubsection{In C++}
+		\begin{lstlisting}
+			#include<iostream>
+			#include<cstdio>
+			using namespace std;
+			
+			int main(){
+				int a,b,c,d;
+				for (int num=1000;num<=9999;num++){
+					a = num / 1000;
+					b = (num / 100) % 10;
+					c = (num / 10) % 10;
+					d = num % 10;
+					if (a*a*a*a+b*b*b*b+c*c*c*c+d*d*d*d==num)
+					printf("%d\n",num);
+				}
+				cin.git();
+				return 0;
+			}
+		\end{lstlisting}
+		\subsubsection{In Python}
+		\begin{lstlisting}
+			for num in range(1000,10000):
+			a = num // 1000
+			b = (num // 100) % 10
+			c = (num // 10) % 10
+			d = num % 10
+			if a**4+b**4+c**4+d**4==num:
+			print (num)
+		\end{lstlisting}
+		\section{5‑digit Narcissistic number(Five‑point‑star number)[五角星数]}
+		This refers to a 5-digit number where the sum of the fiveth powers of its digits equals the number itself.\\
+		There has 3 five-point-star number are:
+		\begin{enumerate}
+			\item 54748
+			\item 92727
+			\item 93084
+		\end{enumerate}
+		\subsection{Find five-point-star number with programing}
+		\begin{lstlisting}
+			#include<iostream>
+			#include<cstdio>
+			using namespace std;
+			int main(){
+				int a, b, c, d, e;
+				for (int num = 10000; num <= 99999; num++) {
+					a = num / 10000;
+					b = (num / 1000) % 10;
+					c = (num / 100) % 10;
+					d = (num / 10) % 10;
+					e = num % 10;
+					if (a * a * a * a + b * b * b * b + c * c * c * c + d * d * d * d == num)
+					printf("%d\n", num);
+				}
+				cin.get()
+				return 0;
+			}
+		\end{lstlisting}
+		\begin{lstlisting}
+			for num in range(10000,100000):
+			a = num // 10000
+			b = (num // 1000) % 10
+			c = (num // 100) % 10
+			d = (num // 10) % 10
+			e = num % 10
+			if a**5+b**5+c**5+d**5+e**5==num:
+			print (num)
+		\end{lstlisting}
+	\end{flushleft}
+\end{document}
+	
+

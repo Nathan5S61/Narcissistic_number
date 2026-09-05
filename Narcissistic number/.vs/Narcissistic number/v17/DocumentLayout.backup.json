@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\git\\Narcissistic number\\Narcissistic number\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Four-leaf-rose_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\Four-leaf-rose_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Five-point-star_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\Five-point-star_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Narcissistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Daffodil_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\Daffodil_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Four-leaf-rose_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B67C5330-853E-46E6-A693-780B5D1F6389}|Narcissistic number\\Narcissistic number.vcxproj|solutionrelative:Narcissistic number\\Four-leaf-rose_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 329,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "global.h",
               "DocumentMoniker": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\global.h",
               "RelativeDocumentMoniker": "Narcissistic number\\global.h",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Daffodil_number.cpp",
               "DocumentMoniker": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Daffodil_number.cpp",
               "RelativeDocumentMoniker": "Narcissistic number\\Daffodil_number.cpp",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Five-point-star_number.cpp",
               "DocumentMoniker": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Five-point-star_number.cpp",
               "RelativeDocumentMoniker": "Narcissistic number\\Five-point-star_number.cpp",
@@ -75,11 +75,12 @@
               "RelativeToolTip": "Narcissistic number\\Five-point-star_number.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-05T09:24:49.752Z"
+              "WhenOpened": "2026-09-05T09:24:49.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Four-leaf-rose_number.cpp",
               "DocumentMoniker": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Four-leaf-rose_number.cpp",
               "RelativeDocumentMoniker": "Narcissistic number\\Four-leaf-rose_number.cpp",
@@ -87,11 +88,12 @@
               "RelativeToolTip": "Narcissistic number\\Four-leaf-rose_number.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-05T09:24:08.465Z"
+              "WhenOpened": "2026-09-05T09:24:08.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Narcissistic.h",
               "DocumentMoniker": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\Narcissistic.h",
               "RelativeDocumentMoniker": "Narcissistic number\\Narcissistic.h",
@@ -103,15 +105,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\main.cpp",
               "RelativeDocumentMoniker": "Narcissistic number\\main.cpp",
               "ToolTip": "D:\\git\\Narcissistic number\\Narcissistic number\\Narcissistic number\\main.cpp",
               "RelativeToolTip": "Narcissistic number\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-05T09:22:30.594Z"
+              "WhenOpened": "2026-09-05T09:22:30.594Z",
+              "EditorCaption": ""
             }
           ]
         }
