@@ -8,3 +8,9 @@ Inside "Narcissistic number.pdf", there have some script about python and cpp th
 
 ## resoures.7z
 Inside "resoures.7z" has some script about to find Narcissistic number(自冪数).
+
+## Header.h
+```Header.h
+int a,b,c,d,e;
+int num;
+```
